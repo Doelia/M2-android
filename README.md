@@ -1,2 +1,18 @@
 # M2-android
 HMIN102 - Programmation Android
+
+Support de cours : http://www.lirmm.fr/~seriai/index.php?n=Enseignement.CoursProgrammationMobile2015Master2
+
+## Notes en vrac Android Studio
+- Définir le Java SDK : File/Project Structure
+- Modifier la version du JDK Android utilisée :
+  - Modifier le gradle.build
+  - Ou de façcon automatique : Clic droit sur le projet / Open Module Settings
+- Lancer le SDK Manager (installation de JDK, google kit...) : Tools/Android/JDK Tools
+- Vider le cache : File / Invalidate Cache / Restart
+
+## Récapitilatif des séances
+
+### Cours du 15/09
+
+- Cours, présentation Android et base de développement : http://www.lirmm.fr/~seriai/uploads/Enseignement/coursAndroid1.pdf
