@@ -13,6 +13,13 @@ Support de cours : http://www.lirmm.fr/~seriai/index.php?n=Enseignement.CoursPro
 
 ## Récapitilatif des séances
 
-### Cours du 15/09
+### Séance du 15/09
 
-- Cours, présentation Android et base de développement : http://www.lirmm.fr/~seriai/uploads/Enseignement/coursAndroid1.pdf
+Cours, présentation Android et base de développement :   http://www.lirmm.fr/~seriai/uploads/Enseignement/coursAndroid1.pdf
+
+### Séance du 22/09
+
+TP d'initiation Android  
+- Configuration Android Studio, émulateur...
+- Réalisation de formulaires en XML et Java pure
+- Fiche TP pas terminée.
