@@ -23,3 +23,13 @@ TP d'initiation Android
 - Configuration Android Studio, émulateur...
 - Réalisation de formulaires en XML et Java pure
 - Fiche TP pas terminée.
+- 
+
+### Séance 29/09
+
+Cours persistance : http://www.lirmm.fr/~seriai/uploads/Enseignement/cours2Android_2015_2016.pdf
+- Gabarits
+- Persistance des activités
+- Stockage dans les fichiers
+- SQLite
+- 
