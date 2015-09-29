@@ -22,8 +22,8 @@ Cours, présentation Android et base de développement :   http://www.lirmm.fr/~
 TP d'initiation Android  
 - Configuration Android Studio, émulateur...
 - Réalisation de formulaires en XML et Java pure
-- Fiche TP pas terminée.
-- 
+- Fiche TP pas terminée
+
 
 ### Séance 29/09
 
