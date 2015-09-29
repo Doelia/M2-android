@@ -32,4 +32,4 @@ Cours persistance : http://www.lirmm.fr/~seriai/uploads/Enseignement/cours2Andro
 - Persistance des activités
 - Stockage dans les fichiers
 - SQLite
-- 
+
