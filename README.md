@@ -11,7 +11,7 @@ Support de cours : http://www.lirmm.fr/~seriai/index.php?n=Enseignement.CoursPro
 - Lancer le SDK Manager (installation de JDK, google kit...) : Tools/Android/JDK Tools
 - Vider le cache : File / Invalidate Cache / Restart
 
-## Récapitilatif des séances
+## Récapitulatif des séances
 
 ### Séance du 15/09
 
