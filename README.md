@@ -29,7 +29,7 @@ TP d'initiation Android
 
 [Cours persistance](http://www.lirmm.fr/~seriai/uploads/Enseignement/cours2Android_2015_2016.pdf) 
 - Gabarits
-- Persistance des activités
+- Persistance des activités (Bundle : key -> value)
 - Stockage dans les fichiers
 - SQLite
 
