@@ -35,3 +35,11 @@ TP d'initiation Android
   - SQLite
 - Fiche TP2 distribuée
 - Perso : TP1 avancé
+
+### Séance 06/10
+
+Pas de cours, TP libre.  
+Perso : Commencement TP2
+ - ListView avec SimpleAdapter et ArrayAdapter
+ - Sauvegarde et restoration d'activités
+
