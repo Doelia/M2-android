@@ -10,6 +10,7 @@ Support de cours : http://www.lirmm.fr/~seriai/index.php?n=Enseignement.CoursPro
   - Ou de façcon automatique : Clic droit sur le projet / Open Module Settings
 - Lancer le SDK Manager (installation de JDK, google kit...) : Tools/Android/JDK Tools
 - Vider le cache : File / Invalidate Cache / Restart
+- Pour compiler correctement : Utiliser le dernier SDK mais prendre la version minimum voulue (mode compatibilité)
 
 ## Récapitulatif des séances
 
@@ -41,5 +42,6 @@ TP d'initiation Android
 Pas de cours, TP libre.  
 Perso : Commencement TP2
  - ListView avec SimpleAdapter et ArrayAdapter
- - Sauvegarde et restoration d'activités
+ - Sauvegarde et restauration d'activités
+ - Utilisation de Bundle : Pas encore réussi
 
