@@ -43,5 +43,5 @@ Pas de cours, TP libre.
 Perso : Commencement TP2
  - ListView avec SimpleAdapter et ArrayAdapter
  - Sauvegarde et restauration d'activités
- - Utilisation de Bundle : Pas encore réussi
+ - Utilisation de Bundle : OK avec ctrl + F11 (rotate), mais pas quand on ferme l'appli
 
