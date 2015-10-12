@@ -34,13 +34,13 @@ TP d'initiation Android
   - Persistance des activités (Bundle : key -> value)
   - Stockage dans les fichiers
   - SQLite
-- Fiche TP2 distribuée
+- [Fiche TP2](http://www.lirmm.fr/~seriai/uploads/Enseignement/TD22014.pdf) distribuée
 - Perso : TP1 avancé
 
 ### Séance 06/10
 
 Pas de cours, TP libre.  
-Perso : Commencement TP2
+Perso : Commencement [TP2](http://www.lirmm.fr/~seriai/uploads/Enseignement/TD22014.pdf)
  - ListView avec SimpleAdapter et ArrayAdapter
  - Sauvegarde et restauration d'activités
  - Utilisation de Bundle : OK avec ctrl + F11 (rotate), mais pas quand on ferme l'appli
