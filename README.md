@@ -45,3 +45,7 @@ Perso : Commencement [TP2](http://www.lirmm.fr/~seriai/uploads/Enseignement/TD22
  - Sauvegarde et restauration d'activités
  - Utilisation de Bundle : OK avec ctrl + F11 (rotate), mais pas quand on ferme l'appli
 
+### Séance 13/10
+
+[Cours 3 capteurs](http://www.lirmm.fr/~seriai/uploads/Enseignement/cours3Android_2015_2016.pdf)
+- [Cours Openclassroom](https://openclassrooms.com/courses/creez-des-applications-pour-android/les-capteurs)
